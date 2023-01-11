@@ -1,7 +1,7 @@
 ### Welcome to my homepage!
-#### I am a student at BJTU, currently in my second year of college
-#### I am interested in some famous course : you can clik here to see detail
-#### I am also interested in computer vision(my research interest)
+&ensp I am a student at BJTU, currently in my second year of college
+&ensp I am interested in some famous course : you can clik here to see detail
+&ensp I am also interested in computer vision(my research interest)
 
 
 <!--
