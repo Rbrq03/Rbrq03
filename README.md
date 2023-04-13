@@ -1,10 +1,10 @@
 ### Welcome to my homepage!
 &ensp; I am a student at BJTU, currently in my second year of college
 
-&ensp; I am interested in some famous course : you can clik here to see detail
+&ensp; I am interested in some famous course : you can clik  to see detail
 
-&ensp; I am also interested in computer vision(my research interest)
-
+&ensp; My research interests include computer vision, machine learning.Specificly, now i am interested in some funny thing with LLM.
+ 
 
 <!--
 **Rbrq03/Rbrq03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
