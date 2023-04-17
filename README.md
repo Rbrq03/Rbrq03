@@ -5,13 +5,10 @@
 
 &ensp; My research interests include computer vision, machine learning.Specificly, now i am interested in some funny thing with LLM.🤔
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Rbrq03&theme=minimal" />
-</div>
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03&count_private=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&langs_count=8&&count_private=true" />
 <span>  </span>
 </div>
 
