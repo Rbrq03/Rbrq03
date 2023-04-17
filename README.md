@@ -5,11 +5,7 @@
 
 &ensp; My research interests include computer vision, machine learning.Specificly, now i am interested in some funny thing with LLM.🤔
 
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&langs_count=8" />
-<span>  </span>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rbrq03&show_icons=true)
 
 
 <!--
