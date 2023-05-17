@@ -1,11 +1,11 @@
 ### Welcome to my homepage!
 &ensp; I am a student at BJTU, currently in my second year of college.😄
 
-&ensp; I am interested in some famous course : you can clik  to see detail. 📫
+&ensp; I am interested in some famous course 
 
 &ensp; My research interests include computer vision, machine learning.Specificly, now i am interested in some funny thing with LLM.🤔
 
-
+### See [detail](https://rbrq03.github.io) in my homepage!
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03&count_private=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&count_private=true" />
