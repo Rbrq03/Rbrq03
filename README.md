@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-&ensp; I am a student at BJTU, currently in my second year of college.😄
+&ensp; I am a student at BJTU, currently in my third year of college.😄
 
 &ensp; I am interested in some famous course 
 
