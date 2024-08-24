@@ -1,7 +1,7 @@
 ### Welcome to my homepage!
 &ensp; I am a student at BJTU, currently in my third year of college.😄
 
-### See [detail](https://rbrq03.github.io) in my homepage!
+### [Details](https://rbrq03.github.io) in my homepage!
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03&count_private=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&count_private=true" />
