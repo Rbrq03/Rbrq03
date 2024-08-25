@@ -2,13 +2,7 @@
 &ensp; I am a student at BJTU, currently in my final year of undergraduate.😄
 
 ### [Details](https://rbrq03.github.io) in my homepage!
-
-<div align="center">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Rbrq03&count_private=true" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rbrq03&layout=compact&count_private=true" />
-<span>  </span>
-</div>
-
+[![Rbrq03's GitHub stats](https://github-readme-stats.vercel.app/api?username=rbrq03)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Rbrq03/Rbrq03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
